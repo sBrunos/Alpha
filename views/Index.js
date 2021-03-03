@@ -1,5 +1,6 @@
 import Home from './Home';
 import Login from './Login';
-import Tracking from './Tracking';
+import Profile from './Profile';
 
-export {Home, Login, Tracking}
+
+export {Home, Login, Profile}

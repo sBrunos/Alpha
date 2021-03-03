@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react';
 import {Text, View, Button, Alert } from 'react-native';
 
-export default function Tracking(props){
+export default function Profile(props){
     console.log(props);
 
     return(
